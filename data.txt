@@ -7,4 +7,3 @@
 - path: penguins
   name: penguins
   extension: csv
-  type: files
