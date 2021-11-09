@@ -1,10 +1,1 @@
-- path: penguins_renamed
-  name: penguins_renamed
-  extension: csv
-  description: Data are available by CC-0 license in accordance with the Palmer Station
-    LTER Data Policy and the LTER Data Access Policy for Type I data. https://raw.githubusercontent.com/allisonhorst/palmerpenguins/master/inst/extdata/penguins.csv
-  type: files
-- path: penguins
-  name: penguins
-  extension: csv
-  type: files
+/tmp/RtmpojDYNh/file15aa392d9yml

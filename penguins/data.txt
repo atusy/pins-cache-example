@@ -1,5 +1,1 @@
-path: penguins.csv
-extension: csv
-type: files
-filenames:
-  penguins.csv: penguins.csv
+/tmp/RtmpojDYNh/file11bb7510f/data.txt
